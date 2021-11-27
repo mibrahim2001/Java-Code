@@ -6,6 +6,8 @@ Contains all the java projects and code I have written for practice.
 
 **GradeBook(Composition Concepts)**
 
+_Reference of question is Java How to Program (Early Objects) (10th Edition)_ 
+
 Assume below basic skeleton of Student and GradeBook class:
 public class GradeBook { private String courseName; private Student[] students; // ... other methods .... } public class Student{ private int id; private String name; int marks[];
 // marks in different tests }
@@ -35,7 +37,9 @@ on what it does. Perform all listed tasks in different methods and call those me
 
 **Employee(Inheritance Concepts)**
 
-9.14 (Employee Hierarchy) In this chapter, you studied an inheritance hierarchy in which class
+_Reference of question is Java How to Program (Early Objects) (10th Edition)_ 
+
+**9.14** (Employee Hierarchy) In this chapter, you studied an inheritance hierarchy in which class
 BasePlusCommissionEmployee inherited from class CommissionEmployee. However, not all types of
 employees are CommissionEmployees. In this exercise, you’ll create a more general Employee superclass
 that factors out the attributes and behaviors in class CommissionEmployee that are common to all Employees. The common attributes and behaviors for all Employees are firstName, lastName, socialSecurityNumber, getFirstName, getLastName, getSocialSecurityNumber and a portion of method
@@ -46,7 +50,7 @@ constructor and CommissionEmployee’s toString method should invoke Employee’
 Once you’ve completed these modifications, run the CommissionEmployeeTest and BasePlusCommissionEmployeeTest apps using these new classes to ensure that the apps still display the same results for
 a CommissionEmployee object and BasePlusCommissionEmployee object, respectively.
 
-9.15 (Creating a New Subclass of Employee) Other types of Employees might include SalariedEmployees who get paid a fixed weekly salary, PieceWorkers who get paid by the number of pieces
+**9.15** (Creating a New Subclass of Employee) Other types of Employees might include SalariedEmployees who get paid a fixed weekly salary, PieceWorkers who get paid by the number of pieces
 they produce or HourlyEmployees who get paid an hourly wage with time-and-a-half—1.5 times the
 hourly wage—for hours worked over 40 hours.
 Create class HourlyEmployee that inherits from class Employee (Exercise 9.14) and has
@@ -61,11 +65,13 @@ Use class HourlyEmployee in a test program that’s similar to the one in Fig. 9
 
 **Sessional 2 Solution (SP20-BCS)**
 
-Q 1: [30 Marks]
-A. Write an interface Billing having a method prototype purchaseBill having no parameter and
+_Reference: This question is given by Dr.Shahbaz Akhtar Abid in Sessional 2 Exam of Batch SP20-BCS_
+
+**Q 1:** [30 Marks]
+**A.** Write an interface Billing having a method prototype purchaseBill having no parameter and
 returns the total amount of the purchased products.
 
-B. Write a class Product which models customer’s purchases and implements the Billing interface.
+**B.** Write a class Product which models customer’s purchases and implements the Billing interface.
 
 This class has:
 
@@ -85,7 +91,7 @@ total of the bill.
 
 • A toString method to return the name of the item followed by = , then the unitPrice.
 
-C. Inherit two subclasses WeighedProduct and CountedProduct from Product. WeighedProduct has
+**C.** Inherit two subclasses WeighedProduct and CountedProduct from Product. WeighedProduct has
 an additional instance variable weight (double) in Kg while CountedProduct has an additional
 variable quantity (int) both private.
 
@@ -107,14 +113,14 @@ WeighedProduct in their respective implementations.
 superclass in defining those of the subclasses. toString should return the products detail
 that can be printed on the receipt
 
-D. Write a Driver Class that creates an array of Billing variables of size four. Billing array holds
+**D.** Write a Driver Class that creates an array of Billing variables of size four. Billing array holds
 two object (use the given output value) each of the WeightedProduct and CountedProduct. Use
 an enhanced for loop to display the complete product information along with the total amount by
 calling the purchaseBill method. Also display the subtotal for CountedProduct and
 WeighedProduct and grand total of all the products from the billing array by calling the
 purchaseBill method
 
-For example 
+**For example**
 
 ID: 100 Rice = 3.00 1.37Kg 4.11 PKR (in case of WeighedProduct class)
 
