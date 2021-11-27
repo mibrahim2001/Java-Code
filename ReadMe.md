@@ -65,7 +65,7 @@ Use class HourlyEmployee in a test program that’s similar to the one in Fig. 9
 
 **Sessional 2 Solution (SP20-BCS)**
 
-_Reference: This question is given by Dr.Shahbaz Akhtar Abid in Sessional 2 Exam of Batch SP20-BCS_
+_Reference: This question is given by Dr.Shahbaz Akhtar Abid in Sessional 2 Exam of Batch SP20-BCS (COMSATS Lahore Campus)_
 
 **Q 1:** [30 Marks]
 **A.** Write an interface Billing having a method prototype purchaseBill having no parameter and
