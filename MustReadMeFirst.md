@@ -3,6 +3,7 @@ Contains all the java projects and code I have written for practice.
 
 ***I am providing the questions with respect to folder name(that contains there solution) below***
 
+
 **GradeBook(Composition Concepts)**
 
 Assume below basic skeleton of Student and GradeBook class:
@@ -30,6 +31,8 @@ test each student may give shall be less or equal to 10. After fully initializin
 Some methods shall be written in Student class and some inside the GradeBook class, decide the best place for a method based 
 on what it does. Perform all listed tasks in different methods and call those methods from the main method in GradeBook test class.
 
+
+
 **Employee(Inheritance Concepts)**
 
 9.14 (Employee Hierarchy) In this chapter, you studied an inheritance hierarchy in which class
@@ -53,6 +56,8 @@ earnings based on the hours worked and a toString method that returns the Hourly
 String representation. Method setWage should ensure that wage is nonnegative, and setHours
 should ensure that the value of hours is between 0 and 168 (the total number of hours in a week).
 Use class HourlyEmployee in a test program that’s similar to the one in Fig. 9.5. 
+
+
 
 **Sessional 2 Solution (SP20-BCS)**
 
