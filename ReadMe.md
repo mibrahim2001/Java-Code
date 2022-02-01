@@ -219,3 +219,10 @@ Karachi - 6 users
 and so
 
 Add approppriate option to invoke this operation in menu.
+  
+  
+**<================= File Handling ==================>**
+  
+  _Reference: Assignment given by Unviersity_
+  
+Q)Reverse contents of a source file using ArrayList (A Collection Class)
