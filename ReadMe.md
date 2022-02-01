@@ -4,6 +4,11 @@ Contains all the java projects and code I have written for practice.
 ***I am providing the questions with respect to folder name(that contains there solution) below and respective folders also contains the question in them.***
 
 
+**<==================== StudentSystem(GUI Project) ====================>**
+
+_This project is made in java using swing. It is a student management system that add, search, delete, and edit students data from a ser file using object serialization._
+
+
 **<==================== GradeBook(Composition Concepts) ====================>**
 
 _Reference of question is Java How to Program (Early Objects) (10th Edition)_ 
