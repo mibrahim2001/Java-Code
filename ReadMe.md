@@ -149,7 +149,7 @@ ii) Write an application CLICK a Button in Java using Swing classes. The applica
 
 
 
-**<==================== Bank(Inheritance, Polymorphism, Overriding, Enums and more) ====================>**
+**<================= Bank(Inheritance, Polymorphism, Overriding, Enums and more) =================>**
 
 _Reference: Given as a lab assignment in Uni_
 
@@ -182,7 +182,7 @@ Define a method getRealProfitRatio, it should return the actual profit percenta
 
 
 
-**<==================== UserService(Composition and ArrayList Concepts) ====================>**
+**<================= UserService(Composition and ArrayList Concepts) ==================>**
 
 _Reference: Given as a Lab assignment in University_
 
