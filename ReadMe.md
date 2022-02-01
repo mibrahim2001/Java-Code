@@ -6,7 +6,7 @@ Contains all the java projects and code I have written for practice.
 
 **<==================== StudentSystem(GUI Project) ====================>**
 
-_This project is made in java using swing. It is a student management system that add, search, delete, and edit students data from a ser file using object serialization._
+_This project is made in java using swing. It is a student management system that add, search, delete, and edit students data from a ".ser" file using object serialization._
 
 
 **<==================== GradeBook(Composition Concepts) ====================>**
