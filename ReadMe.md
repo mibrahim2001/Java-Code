@@ -132,7 +132,10 @@ SubTotal for WeighedProducts : 4.11
 
 GrandTotal : 49.11
 
+
+
 **<==================== Java GUI ====================>**
+
 _Contains some basic code in the basic sub-folder_
 
 **Flag Check** folder contains a program that shows some flag on the frame and when you hover over your mouse on one of the flag it changes into the name of that country and when the mouse exits the flag is shown again.
