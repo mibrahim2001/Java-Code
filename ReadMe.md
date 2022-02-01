@@ -1,7 +1,7 @@
 # Java-Code
 Contains all the java projects and code I have written for practice.
 
-***I am providing the questions with respect to folder name(that contains there solution) below***
+***I am providing the questions with respect to folder name(that contains there solution) below and respective folders also contains the question in them***
 
 
 **<====================GradeBook(Composition Concepts)====================>**
