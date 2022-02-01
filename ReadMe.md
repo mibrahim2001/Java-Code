@@ -4,7 +4,7 @@ Contains all the java projects and code I have written for practice.
 ***I am providing the questions with respect to folder name(that contains there solution) below and respective folders also contains the question in them.***
 
 
-**<====================GradeBook(Composition Concepts)====================>**
+**<==================== GradeBook(Composition Concepts) ====================>**
 
 _Reference of question is Java How to Program (Early Objects) (10th Edition)_ 
 
@@ -35,7 +35,7 @@ on what it does. Perform all listed tasks in different methods and call those me
 
 
 
-**<====================Employee(Inheritance Concepts)====================>**
+**<==================== Employee(Inheritance Concepts) ====================>**
 
 _Reference of question is Java How to Program (Early Objects) (10th Edition)_ 
 
@@ -63,7 +63,7 @@ Use class HourlyEmployee in a test program that’s similar to the one in Fig. 9
 
 
 
-**<====================Sessional 2 (SP20-BCS)====================>**
+**<==================== Sessional 2 (SP20-BCS) ====================>**
 
 _Reference: This question is given by Dr.Shahbaz Akhtar Abid in Sessional 2 Exam of Batch SP20-BCS (COMSATS Lahore Campus)_
 
@@ -131,3 +131,12 @@ SubTotal for CountedProducts : 45.0
 SubTotal for WeighedProducts : 4.11
 
 GrandTotal : 49.11
+
+**<==================== Java GUI ====================>**
+_Contains some basic code in the basic sub-folder_
+
+**Flag Check** folder contains a program that shows some flag on the frame and when you hover over your mouse on one of the flag it changes into the name of that country and when the mouse exits the flag is shown again.
+
+_**src**_ folder contains two questions from an assignment from universitry 
+i) Write an application to make paint having provision of various font colors while drawing. 
+ii) Write an application CLICK a Button in Java using Swing classes. The application handles the mouse enetered event. The button on the form displaces as the user tries to         click the button. 
