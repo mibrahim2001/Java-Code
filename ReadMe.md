@@ -3,7 +3,7 @@ Contains all the java projects and code I have written for practice.
 
 **A quick tip:**
 
-You can download any directory(folder) in .zip format by copying the link of that directory and pasting it on [DownGit](https://minhaskamal.github.io/DownGit/#/home)(Open the link in new tab)
+You can download any directory(folder) in .zip format by copying the link of that directory and pasting it on [DownGit](https://minhaskamal.github.io/DownGit/#/home).
 
 ***I am providing the questions with respect to folder name(that contains there solution) below and respective folders also contains the question in them.***
 
